@@ -141,6 +141,7 @@ footer a:hover {
 .content-bg {
   background: rgb(255 255 255 / 0.2);
   padding: 30px;
+  border-radius: 10px;
 }
 
 .content-bg h1 {
@@ -311,6 +312,7 @@ footer a:hover {
 
 .java-project-item img {
   width: 300px;
+  border-radius: 10px;
 }
 
 .java-project-item h3 {
@@ -334,6 +336,7 @@ footer a:hover {
 .unity-project-item video {
   width: 640px;
   margin-top: 20px;
+  border-radius: 10px;
 }
 
 /* -----WORK EXPERIENCE----- */
