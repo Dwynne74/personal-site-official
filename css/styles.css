@@ -119,7 +119,7 @@ footer a:hover {
 
 .navigation-bar a {
   color: rgb(9, 181, 244);
-  text-decoration: wavy;
+  text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
 }
