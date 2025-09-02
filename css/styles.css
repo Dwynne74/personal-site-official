@@ -166,9 +166,9 @@ footer a:hover {
   margin-top: 100px;
 }
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 865px) {
   #home-section {
-    width: 770px;
+    width: 865px;
   }
 
   .intro-item img {
@@ -195,6 +195,7 @@ footer a:hover {
   text-decoration: none;
   margin: 10px 20px;
   color: rgb(9, 181, 244);
+  white-space: nowrap;
 }
 
 .links-home a:hover {
@@ -461,8 +462,8 @@ footer {
   }
 }
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 865px) {
   footer {
-    width: 770px;
+    width: 865px;
   }
 }
