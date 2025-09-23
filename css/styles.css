@@ -116,7 +116,7 @@ footer a:hover {
   position: fixed;
   gap: 30px;
   border-radius: 80px;
-  padding: 15px 0;
+  padding: 10px 0;
   top: 5px;
   left: 50%;
   transform: translateX(-50%);
@@ -131,6 +131,12 @@ footer a:hover {
 
 .navigation-bar a:hover {
   color: #778899;
+}
+
+.nav-link.active {
+  padding: 2px 15px;
+  background: #252424;
+  border-radius: 15px;
 }
 
 .mode-toggle {
@@ -444,6 +450,17 @@ fieldset {
 
 #contact-section a:hover {
   text-decoration: underline;
+}
+
+.back-to-top-wrapper {
+  position: relative;
+  text-align: center;
+}
+
+.back-to-top {
+  display: inline-block;
+  color: #007ba8;
+  font-size: 30px;
 }
 
 /* -----FOOTER----- */
