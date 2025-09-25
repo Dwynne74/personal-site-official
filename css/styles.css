@@ -45,6 +45,10 @@ body.dark {
   color: #f6f6f6;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 h1,
 h2,
 h3 {
