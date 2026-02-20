@@ -383,6 +383,10 @@ body.dark .home-page {
   border-radius: 10px;
 }
 
+.javascript-project-item {
+  margin: 30px 0;
+}
+
 /* -----WORK EXPERIENCE----- */
 
 .work-item {
