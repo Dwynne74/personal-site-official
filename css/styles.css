@@ -109,6 +109,10 @@ footer a:hover {
   border-radius: 4px;
 }
 
+.demo {
+  background: #a78bfa;
+}
+
 /* -----HOME----- */
 
 .navigation-bar {
@@ -368,6 +372,12 @@ body.dark .home-page {
 }
 
 .unity-project-item video {
+  width: 640px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.javascript-project-item video {
   width: 640px;
   margin-top: 20px;
   border-radius: 10px;
